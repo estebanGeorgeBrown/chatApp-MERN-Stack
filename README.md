@@ -1,0 +1,1 @@
+Chat application made with the MERN stack, socket io and materialUI with the purpose of learning
